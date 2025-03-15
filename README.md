@@ -1,2 +1,2 @@
 # odin-recipes
-## WE will have this as our First HTML Project Readme file 
+## We will have this as our first HTML Project Readme file.
